@@ -1,0 +1,2 @@
+total_transactions,transactions_nettoyees,transactions_dupliquees_supprimees,transactions_avec_montant_zero,transactions_remboursements
+200000,200000,0,0,3327
