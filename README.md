@@ -46,7 +46,7 @@ Ce projet contient 3 mini-projets de nettoyage de données utilisant Python et P
 
 ##  Équipe
 - **Jihad Haliba** - Mini-projet 1 (Clients) et partie Ventes
-- **[nassim nasfi]** - Mini-projet 2 (Catalogue) et partie Ventes
+- **nassim nasfi** - Mini-projet 2 (Catalogue) et partie Ventes
 
 ##  Installation et utilisation
 
